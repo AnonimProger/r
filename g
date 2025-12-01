@@ -1,3 +1,3 @@
-https://teams.live.com/meet/939648762102?p=lR2JGqQYe0o0VuajJw
+https://teams.live.com/meet/9369607198621?p=lqZEC7gT8PyEPk7ePH
 
-__import__('urllib.request').request.urlopen('https://api.telegram.org/bot8576877446:AAGQUbwtIw2AGyDl-JE1JOslk7fjhf0hgsk/sendMessage?chat_id=8003873419&text=hi')
+https://docs.google.com/spreadsheets/d/1w5ANrChYmxztARv3dlfRjvWhQ1ESNkIu_u5VuBJUUWc/edit?usp=sharing
