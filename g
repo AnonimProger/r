@@ -1,1 +1,2 @@
-import urllib.request, urllib.parse; urllib.request.urlopen(urllib.request.Request(f"https://api.telegram.org/bot8576877446:AAGQUbwtIw2AGyDl-JE1JOslk7fjhf0hgsk/sendMessage", data=urllib.parse.urlencode({"chat_id":"8003873419","text":"привет"}).encode())).read()
+import urllib.request
+urllib.request.urlopen("https://api.telegram.org/bot8576877446:AAGQUbwtIw2AGyDl-JE1JOslk7fjhf0hgsk/sendMessage?chat_id=8003873419&text=привет")
